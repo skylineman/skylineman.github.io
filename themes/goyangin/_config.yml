@@ -7,7 +7,7 @@ menu:
   
 
 grid: 2 # change index columns /line
-logo: img/logo.jpg #logo in header
+logo: img/logo.png #logo in header
 gravatar: yourmail@mail.com #img gravatar in post
 author: g3xx #name author in post (default)
 excerpt_link: Read More #chnge text in read more in index
@@ -20,11 +20,11 @@ google_analytics:         # UA-83746351-2
 # if u want add more profile media social (icon same as Fontawesome)
 #  just add name ex : Instagram: https://www.instagram.com/you/
 social:
-  Github: https://github.com/you
-  Twitter: https://twitter.com/you
-  Facebook: https://facebook.com/you
-  Google-plus: https://plus.google.com/104751165505597913805
-  email: yourmail@mail.com
+  Github: https://github.com/skylineman/filedog
+  Twitter: https://twitter.com/magpieaiapp
+  #Facebook: https://facebook.com/you
+  #Google-plus: https://plus.google.com/104751165505597913805
+  email: magpieiot@mail.com
   #Instagram: https://www.instagram.com/you/
 
 # Code Highlight theme
