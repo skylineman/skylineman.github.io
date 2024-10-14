@@ -6,7 +6,7 @@ menu:
   RSS: /atom.xml
   
 
-grid: 2 # change index columns /line
+grid: 4 # change index columns /line
 logo: img/logo.png #logo in header
 gravatar: yourmail@mail.com #img gravatar in post
 author: g3xx #name author in post (default)
