@@ -4,9 +4,8 @@ menu:
   Category: /categories
   Archive: /archives
 favicon: /favicon.ico
-banner: 
-   - banner-home.png
-
+banner: /banner-home.png
+   
 #  - "https://files.shaiwang.life/banner/banner-1.jpg"
 #  - "https://files.shaiwang.life/banner/banner-2.jpg"
 #  - "https://files.shaiwang.life/banner/banner-4.jpg"
